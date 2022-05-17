@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+.obome-foto{
+    border-radius: 10px;
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: cover;
+}
+.foto
+{   
+    position: absolute;
+    left: 3%;
+    top: 15%;
+    width: 40%;
+    height: 30%;
+    border-radius: 10px;
+}
+.foto-res
+{   
+    position: absolute;
+    left: 87%;
+    top: 4%;
+    width: 50%;
+    height: 40%;
+    border-radius: 10px;
+}
+.foto2
+{   
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    width: 40%;
+    height: 30%;
+    border-radius: 10px;
+}
+.foto3
+{   
+    position: absolute;
+    left: 3%;
+    top: 55%;
+    width: 40%;
+    height: 30%;
+    border-radius: 10px;
+}
